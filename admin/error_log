@@ -1,0 +1,24 @@
+[19-Sep-2018 20:04:30 UTC] PHP Notice:  Undefined variable: msg in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 151
+[19-Sep-2018 20:04:30 UTC] PHP Notice:  Undefined variable: error in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 155
+[19-Sep-2018 20:04:42 UTC] PHP Notice:  Undefined variable: msg in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 151
+[19-Sep-2018 20:04:42 UTC] PHP Notice:  Undefined variable: error in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 155
+[19-Sep-2018 20:05:44 UTC] PHP Notice:  Undefined variable: msg in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 151
+[19-Sep-2018 20:05:44 UTC] PHP Notice:  Undefined variable: error in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 155
+[19-Sep-2018 20:05:55 UTC] PHP Notice:  Undefined variable: msg in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 151
+[19-Sep-2018 20:05:55 UTC] PHP Notice:  Undefined variable: error in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 155
+[19-Sep-2018 20:09:48 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 64
+[19-Sep-2018 20:09:52 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 64
+[19-Sep-2018 20:09:54 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 64
+[19-Sep-2018 20:10:00 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 64
+[19-Sep-2018 20:10:02 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 64
+[19-Sep-2018 20:10:51 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 64
+[19-Sep-2018 20:10:51 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 64
+[19-Sep-2018 20:10:51 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 64
+[19-Sep-2018 20:10:51 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 64
+[19-Sep-2018 20:10:52 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 64
+[19-Sep-2018 20:10:53 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 64
+[19-Sep-2018 20:11:35 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 64
+[19-Sep-2018 20:32:03 UTC] PHP Notice:  Undefined index: alogin in /home/ixt27c8ar5fi/public_html/proj/admin/dashboard.php on line 5
+[19-Sep-2018 20:33:42 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 64
+[19-Sep-2018 20:36:09 UTC] PHP Notice:  Undefined variable: msg in /home/ixt27c8ar5fi/public_html/proj/admin/create-class.php on line 118
+[19-Sep-2018 20:55:15 UTC] PHP Notice:  Undefined index: alogin in /home/ixt27c8ar5fi/public_html/proj/admin/dashboard.php on line 5

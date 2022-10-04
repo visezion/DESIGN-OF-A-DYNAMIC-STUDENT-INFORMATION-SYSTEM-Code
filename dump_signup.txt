@@ -1,0 +1,39 @@
+CREATE TABLE IF NOT EXISTS `plus_key` (
+  `userid` varchar(10) NOT NULL,
+  `pkey` varchar(32) NOT NULL,
+  `time` varchar(10) NOT NULL,
+  `status` varchar(7) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `plus_login`
+--
+
+CREATE TABLE IF NOT EXISTS `plus_login` (
+  `id` varchar(50) NOT NULL DEFAULT '',
+  `userid` varchar(10) NOT NULL DEFAULT '',
+  `ip` varchar(20) NOT NULL DEFAULT '',
+  `tm` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  `status` char(3) NOT NULL DEFAULT 'ON'
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `plus_signup`
+--
+
+CREATE TABLE IF NOT EXISTS `plus_signup` (
+  `mem_id` int(3) NOT NULL AUTO_INCREMENT,
+  `userid` varchar(10) NOT NULL DEFAULT '',
+  `password` varchar(32) NOT NULL DEFAULT '',
+  `email` varchar(50) NOT NULL DEFAULT '',
+  `name` varchar(50) NOT NULL DEFAULT '',
+  `sex` varchar(6) NOT NULL DEFAULT '',
+  PRIMARY KEY (`userid`),
+  UNIQUE KEY `email` (`email`),
+  UNIQUE KEY `userid` (`userid`),
+  UNIQUE KEY `mem_id` (`mem_id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=2 ;
